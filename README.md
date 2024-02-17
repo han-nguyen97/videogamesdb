@@ -9,8 +9,15 @@ Power Query and Power BI have been employed to extract insights from the dataset
 
 # Insights
 1. Regional Sales Analysis
-- North America is the largest market for the video games, following by Europe and Japan.
+- North America is the largest market for video games, following by Europe and Japan.
 
-2. Sales trends over yesr
+2. Sales trends over the year
+- Sales figures have shown a steady increase over the past from 1980 to 2008, with a notable peak in 2008.
 
-3. Top selling games by Genre
+3. Top-selling games by Genre
+- The bat chart reveals that Action is the most selling genre of game, followed by Sports and Shooter. This is true for three regions North America, Europe and other. In Japan, role-playing dominates sales within their respective genres, Action and Sports are in the 2nd and 3rd place.
+
+4. Market Share by Category and Publisher
+-  Regarding Major Publisher, Nitendo dominates the market
+-  For mid-tier Publisher,
+-  For Small Publisher,
