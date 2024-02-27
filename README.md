@@ -7,9 +7,13 @@ Power Query and Power BI have been employed to extract insights from the dataset
 
 Due to unavailable data in 2017-2019, I only consider data from 1980 - 2016 to have uninterrupted data insights.
 
-# Result
-![image](https://github.com/han-nguyen97/videogamesdb/assets/83593831/2fafcc71-7c1e-4322-bce0-444a96125118)
+- Modify and load data in Power BI
+- Create a star schema model
+- Use DAX to create measures and highlight data points
 
+# Result
+
+![image](https://github.com/han-nguyen97/videogamesdb/assets/83593831/252cb4b3-e702-4d33-b7af-bc82eb131a9d)
 
 # Insights
 _1. Regional Sales Analysis_
