@@ -11,19 +11,25 @@ Due to unavailable data in 2017-2019, I only consider data from 1980 - 2016 to h
 
 # Insights
 _1. Regional Sales Analysis_
-- North America is the largest market for video games, followed by Europe and Japan.
+- Before 1998, Japan was always in the top two regions in terms of video game sales.
+- Recently, North America is the largest market for video games, followed by Europe and Japan.
 
 _2. Sales trends over the year_
-- Sales figures have shown a steady increase over the past from 1980 to 2008, with a notable peak in 2008.
+- Sales figures have shown a steady increase over the past from 1980 to 2008, with a notable peak in 2008. The reason behind the steady increase is the release of new games and the founder of new publishers.
+- Before 1996, Platform and Fighting were the most valuable genres. After that, Role-playing took over the first place. 
+- From 2001 till 2016, Action was the most money-making genre with the rise of many new release games.
+- Sports, Shooter, and Role-playing maintain stable sales over the years. Since 2011, Shooter has been the second most profitable genre with an increase in sales. 
 
 _3. Top-selling games by Genre_
-- The bat chart reveals that Action is the most selling genre of game, followed by Sports and Shooter. This is true for three regions North America, Europe and other. In Japan, role-playing dominates sales within their respective genres, Action, and Sports are in the 2nd and 3rd place.
+- The bat chart reveals that Action is the most selling genre of game, followed by Sports and Shooter. This is true for three regions North America, Europe and others. In Japan, Role-playing dominates sales within their respective genres, Action, and Sports are in the 2nd and 3rd place.
 
 _4. Top-selling games by Platform_
-- PS2 is the best performance platform among 31 platforms
+- PS2 is the best performance platform among 31 platforms over the period. However, 
 
 _5. Popular genres by Platform_
-- Among 12 genres, Action is the most sellable genre, with the highest sales in 7 platforms, Puzzle brings the lowest sales for 8 platforms.
+- Among 12 genres, Action is the most profitable genre, with the highest sales in 7 platforms, Puzzle brings the lowest sales for 8 platforms.
 
 _6. Top sales by Publishers_
-- 5 Publishers with the highest sales over time are Nitendo, Electronics Arts, Activision, Sony Computer Entertainment and Ubisoft
+- 5 Publishers with the highest sales over time are Nintendo, Electronics Arts, Activision, Sony Computer Entertainment, and Ubisoft.
+
+
