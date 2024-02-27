@@ -10,18 +10,20 @@ Due to unavailable data in 2017-2019, I only consider data from 1980 - 2016 to h
 # Result
 
 # Insights
-1. Regional Sales Analysis
+_1. Regional Sales Analysis_
 - North America is the largest market for video games, followed by Europe and Japan.
 
-2. Sales trends over the year
+_2. Sales trends over the year_
 - Sales figures have shown a steady increase over the past from 1980 to 2008, with a notable peak in 2008.
 
-3. Top-selling games by Genre
-- The bat chart reveals that Action is the most selling genre of game, followed by Sports and Shooter. This is true for three regions North America, Europe and other. In Japan, role-playing dominates sales within their respective genres, Action and Sports are in the 2nd and 3rd place.
+_3. Top-selling games by Genre_
+- The bat chart reveals that Action is the most selling genre of game, followed by Sports and Shooter. This is true for three regions North America, Europe and other. In Japan, role-playing dominates sales within their respective genres, Action, and Sports are in the 2nd and 3rd place.
 
-4. Market Share by Category and Publisher
--  The Major Publisher accounts for nearly 100% of the market. Regarding Major Publisher, Nitendo dominates the market.
+_4. Top-selling games by Platform_
+- PS2 is the best performance platform among 31 platforms
 
-5. Sales by Game Name
-- Wii Sport of Nitendo has the largest sales.
+_5. Popular genres by Platform_
+- Among 12 genres, Action is the most sellable genre, with the highest sales in 7 platforms, Puzzle brings the lowest sales for 8 platforms.
 
+_6. Top sales by Publishers_
+- 5 Publishers with the highest sales over time are Nitendo, Electronics Arts, Activision, Sony Computer Entertainment and Ubisoft
