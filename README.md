@@ -30,10 +30,11 @@ _3. Top-selling games by Genre_
 - The bat chart reveals that Action is the most selling genre of game, followed by Sports and Shooter. This is true for three regions North America, Europe and others. In Japan, Role-playing dominates sales within their respective genres, Action, and Sports are in the 2nd and 3rd place.
 
 _4. Top-selling games by Platform_
-- PS2 is the best performance platform among 31 platforms over the period. However, 
+- PS2 is the best-performance gaming console among 31 platforms over the period. The PS4, XOne and 3DS have dominated the sales recently. 
 
 _5. Popular genres by Platform_
 - Among 12 genres, Action is the most profitable genre, with the highest sales in 7 platforms, Puzzle brings the lowest sales for 8 platforms.
+- The most profitable game genre for PS4 is Action, for XOne is Shooter and for 3DS is Role-Playing
 
 _6. Top sales by Publishers_
 - 5 Publishers with the highest sales over time are Nintendo, Electronics Arts, Activision, Sony Computer Entertainment, and Ubisoft.
