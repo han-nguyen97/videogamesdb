@@ -13,7 +13,8 @@ Due to unavailable data in 2017-2019, I only consider data from 1980 - 2016 to h
 
 # Result
 
-![image](https://github.com/han-nguyen97/videogamesdb/assets/83593831/252cb4b3-e702-4d33-b7af-bc82eb131a9d)
+![image](https://github.com/han-nguyen97/videogamesdb/assets/83593831/c3d58417-8f5e-4472-bd4f-6a7c9f3a9242)
+
 
 # Insights
 _1. Regional Sales Analysis_
